@@ -3,28 +3,22 @@ import { VisitorDTO } from '../../types/controller/visitor';
 
 const visitors: Visitor[] = [
   {
-    username: 'juanp10',
-    password: 'jpGP^3',
-    nombreCompleto: 'Juan Pérez',
-    numeroBoleto: '001',
+    username: 'alejandra.m',
+    password: 'verde123',
+    nombreCompleto: 'Alejandra Morales',
+    numeroBoleto: '00123',
   },
   {
-    username: 'maria456',
-    password: 'MaryGpark27',
-    nombreCompleto: 'Maria González',
-    numeroBoleto: '002',
+    username: 'david.p',
+    password: 'bosque456',
+    nombreCompleto: 'David Pérez',
+    numeroBoleto: '00124',
   },
   {
-    username: 'carlosg15',
-    password: 'CarGP5463!',
-    nombreCompleto: 'Carlos Gómez',
-    numeroBoleto: '003',
-  },
-  {
-    username: 'ana_luna',
-    password: 'AnaLun4*GP',
-    nombreCompleto: 'Ana Luna',
-    numeroBoleto: '004',
+    username: 'lucia.r',
+    password: 'eco789',
+    nombreCompleto: 'Lucía Ramírez',
+    numeroBoleto: '00125',
   },
 ];
 
